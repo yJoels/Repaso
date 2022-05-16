@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Repaso</string>
+    <string name="titulo_nombres">Nombre:</string>
+    <string name="titulo_apellidos">Apellido:</string>
+    <string name="titulo_base">Base:</string>
+    <string name="titulo_expotente">Exponente:</string>
+    <string name="titulo_factorial">Factorial:</string>
+    <string name="titulo_potencia">Potencia:</string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_resultados">Resultados</string>
+    <string name="button_cerrar">Cerrar</string>
+    <string name="vacio"> </string>
+</resources>
