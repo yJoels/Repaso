@@ -20,13 +20,14 @@ public class MainActivity extends AppCompatActivity {
     private TextView text_base;
     private TextView text_exponente;
     private TextView text_factorial;
+    //hola
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
- 
+
         text_apellido = findViewById(R.id.apellidos);
         text_nombre = findViewById(R.id.nombres);
         text_base = findViewById(R.id.base);
